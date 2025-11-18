@@ -28,7 +28,7 @@ This is the **unofficial** repository for Super Mario Odyssey: Kingdom 18, a mod
   # Clone the repository
 
   ```sh
-  git clone https://github.com/DaDev123/SMO-Exlaunch-Base.git --recursive
+  git clone https://github.com/DaDev123/SMO-Kingdom-18.git --recursive
   ```
 
   # Update game headers
